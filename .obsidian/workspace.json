@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b23e495be81d9ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed4f6ec7a0dbe6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748d7acbb4487081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basic/design-patterns/0.知识树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e892b53e983cfe78",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ad3b8793d17191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7912204778fbd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "612675fb70bbaed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#知识树",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0dec6f1cec634f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e1c2631f722e6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df29932d11c21a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b466d627e867c525",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "basic/design-patterns/0.知识树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17dc4afbe1a0bf61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "basic/design-patterns/0.知识树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9c421cec3989a32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7639ecbca2723f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "basic/design-patterns/0.知识树.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "748d7acbb4487081",
+  "lastOpenFiles": [
+    "这是一个数学公式english.md",
+    "java/collection/新的笔记.md",
+    "basic/design-patterns/attachments/knowledge tree.png",
+    "basic/design-patterns/attachments/Pasted image 20231009015204.png",
+    "basic/design-patterns/设计模式.md",
+    "basic/design-patterns/attachments",
+    "basic/design-patterns/Pasted image 20231009015058.png",
+    "basic/design-patterns/0.知识树.md",
+    "basic/operating-system/README.md",
+    "java/collection/README.md",
+    "database/redis/README.md",
+    "database/mysql/README.md",
+    "mq/kafka/README.md",
+    "java/concurrent/README.md",
+    "index.md",
+    "basic/computer-network/README.md",
+    "未命名.canvas",
+    "README.md",
+    "mq/kafka",
+    "mq",
+    "java/jvm/README.md",
+    "java/jvm",
+    "java/concurrent",
+    "java/collection",
+    "java",
+    "database/redis",
+    "database/mysql",
+    "database",
+    "计算机基础/设计模式/README.md",
+    "计算机基础/操作系统/README.md",
+    "java/并发/README.md",
+    "数据库/mysql/文章1.md",
+    "数据库/redis/README.md",
+    "数据库/mysql/文章2.md",
+    "java/集合/README.md",
+    "计算机基础/计算机网络/README.md",
+    "数据库/mysql/README.md",
+    "消息队列/kafka/README.md"
+  ]
+}
