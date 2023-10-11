@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "java/collection/新的笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#知识树",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,16 +149,16 @@
   },
   "active": "748d7acbb4487081",
   "lastOpenFiles": [
-    "这是一个数学公式english.md",
-    "basic/design-patterns/0.知识树.md",
-    "basic/design-patterns/设计模式.md",
-    "basic/computer-network/README.md",
-    "java/concurrent/知识树.md",
-    "basic/design-patterns/attachments/knowledge tree.png",
-    "java/collection/README.md",
-    "java/collection/新的笔记.md",
     "database/redis/README.md",
     "database/mysql/README.md",
+    "basic/design-patterns/0.知识树.md",
+    "basic/design-patterns/设计模式.md",
+    "basic/design-patterns/attachments/knowledge tree.png",
+    "basic/computer-network/README.md",
+    "java/collection/新的笔记.md",
+    "这是一个数学公式english.md",
+    "java/concurrent/知识树.md",
+    "java/collection/README.md",
     "basic/design-patterns/attachments/Pasted image 20231009015204.png",
     "basic/design-patterns/attachments",
     "basic/design-patterns/Pasted image 20231009015058.png",
