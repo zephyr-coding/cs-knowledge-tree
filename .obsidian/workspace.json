@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic/design-patterns/0.知识树.md",
-                "mode": "source",
+                "file": "java/collection/新的笔记.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basic/design-patterns/0.知识树.md",
+                "file": "java/collection/新的笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basic/design-patterns/0.知识树.md",
+                "file": "java/collection/新的笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic/design-patterns/0.知识树.md"
+                "file": "java/collection/新的笔记.md"
               }
             }
           }
@@ -149,23 +149,23 @@
   },
   "active": "748d7acbb4487081",
   "lastOpenFiles": [
-    "basic/design-patterns/attachments/knowledge tree.png",
+    "这是一个数学公式english.md",
     "basic/design-patterns/0.知识树.md",
+    "basic/design-patterns/设计模式.md",
+    "basic/computer-network/README.md",
+    "java/concurrent/知识树.md",
+    "basic/design-patterns/attachments/knowledge tree.png",
     "java/collection/README.md",
     "java/collection/新的笔记.md",
     "database/redis/README.md",
     "database/mysql/README.md",
-    "java/concurrent/知识树.md",
-    "这是一个数学公式english.md",
     "basic/design-patterns/attachments/Pasted image 20231009015204.png",
-    "basic/design-patterns/设计模式.md",
     "basic/design-patterns/attachments",
     "basic/design-patterns/Pasted image 20231009015058.png",
     "basic/operating-system/README.md",
     "mq/kafka/README.md",
     "java/concurrent/README.md",
     "index.md",
-    "basic/computer-network/README.md",
     "未命名.canvas",
     "README.md",
     "mq/kafka",
