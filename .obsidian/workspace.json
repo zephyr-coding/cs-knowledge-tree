@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ef1b6f1ef813ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "java/concurrent/并发机制底层实现原理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "java/concurrent/并发机制底层实现原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "java/concurrent/并发机制底层实现原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "java/concurrent/并发机制底层实现原理.md"
               }
             }
           }
@@ -147,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,29 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5ef1b6f1ef813ac",
+  "active": "748d7acbb4487081",
   "lastOpenFiles": [
-    "index.md",
+    "java/concurrent/知识树.md",
+    "java/collection/README.md",
+    "java/collection/新的笔记.md",
+    "database/redis/README.md",
+    "database/mysql/README.md",
+    "basic/computer-network/README.md",
+    "basic/design-patterns/attachments/knowledge tree.png",
+    "basic/design-patterns/设计模式.md",
+    "basic/design-patterns/0.知识树.md",
+    "java/concurrent/并发机制底层实现原理.md",
+    "java/concurrent/README.md",
     "README.md",
+    "index.md",
     "这是一个数学公式english.md",
     "mq/kafka/README.md",
     "java/jvm/README.md",
-    "java/concurrent/README.md",
-    "java/concurrent/知识树.md",
-    "java/collection/新的笔记.md",
-    "basic/design-patterns/设计模式.md",
-    "basic/design-patterns/0.知识树.md",
-    "basic/design-patterns/attachments/knowledge tree.png",
-    "basic/computer-network/README.md",
-    "java/collection/README.md",
-    "database/redis/README.md",
-    "database/mysql/README.md",
     "basic/design-patterns/attachments/Pasted image 20231009015204.png",
     "basic/design-patterns/attachments",
     "basic/design-patterns/Pasted image 20231009015058.png",
     "basic/operating-system/README.md",
     "未命名.canvas",
-    "README.md",
     "mq/kafka",
     "mq",
     "java/jvm",
@@ -200,7 +186,6 @@
     "数据库/mysql/文章2.md",
     "java/集合/README.md",
     "计算机基础/计算机网络/README.md",
-    "数据库/mysql/README.md",
-    "消息队列/kafka/README.md"
+    "数据库/mysql/README.md"
   ]
 }
