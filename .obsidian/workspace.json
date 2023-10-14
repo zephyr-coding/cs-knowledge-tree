@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed4f6ec7a0dbe6a",
+        "id": "276173c6e871266b",
         "type": "tabs",
         "children": [
           {
-            "id": "748d7acbb4487081",
+            "id": "666e16e666284e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,27 +146,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "748d7acbb4487081",
+  "active": "666e16e666284e29",
   "lastOpenFiles": [
+    "java/concurrent/并发机制底层实现原理.md",
+    "java/concurrent/线程.md",
+    "java/concurrent/attachments/Pasted image 20231014005515.png",
+    "java/concurrent/attachments/Pasted image 20231014005432.png",
+    "java/concurrent/attachments/Pasted image 20231014004534.png",
+    "java/concurrent/attachments/Pasted image 20231014003741.png",
+    "java/concurrent/attachments/Mark Word.png",
+    "java/concurrent/attachments/Java 对象头的长度.png",
+    "java/concurrent/attachments/Pasted image 20231014003025.png",
+    "java/concurrent/attachments/Pasted image 20231014003011.png",
+    "java/concurrent/attachments/Pasted image 20231014002959.png",
+    "java/concurrent/attachments/Pasted image 20231014002801.png",
+    "java/concurrent/attachments",
     "java/concurrent/知识树.md",
     "java/collection/README.md",
     "java/collection/新的笔记.md",
     "database/redis/README.md",
     "database/mysql/README.md",
     "basic/computer-network/README.md",
-    "basic/design-patterns/attachments/knowledge tree.png",
     "basic/design-patterns/设计模式.md",
     "basic/design-patterns/0.知识树.md",
-    "java/concurrent/并发机制底层实现原理.md",
     "java/concurrent/README.md",
     "README.md",
     "index.md",
     "这是一个数学公式english.md",
     "mq/kafka/README.md",
     "java/jvm/README.md",
-    "basic/design-patterns/attachments/Pasted image 20231009015204.png",
     "basic/design-patterns/attachments",
-    "basic/design-patterns/Pasted image 20231009015058.png",
     "basic/operating-system/README.md",
     "未命名.canvas",
     "mq/kafka",
@@ -177,7 +186,6 @@
     "java",
     "database/redis",
     "database/mysql",
-    "database",
     "计算机基础/设计模式/README.md",
     "计算机基础/操作系统/README.md",
     "java/并发/README.md",
@@ -185,7 +193,6 @@
     "数据库/redis/README.md",
     "数据库/mysql/文章2.md",
     "java/集合/README.md",
-    "计算机基础/计算机网络/README.md",
-    "数据库/mysql/README.md"
+    "计算机基础/计算机网络/README.md"
   ]
 }
