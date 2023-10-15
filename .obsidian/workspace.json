@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/jvm/类加载.md",
+                "file": "java/jvm/GC 流程图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/jvm/类加载.md",
+                "file": "java/jvm/GC 流程图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/jvm/类加载.md",
+                "file": "java/jvm/GC 流程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/jvm/类加载.md"
+                "file": "java/jvm/GC 流程图.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "08c01f8a4fc24862",
   "lastOpenFiles": [
-    "java/jvm/Java 对象的创建过程.md",
+    "java/jvm/attachments/Pasted image 20231016003842.png",
+    "java/jvm/attachments",
+    "java/jvm/垃圾回收收集器.md",
+    "java/jvm/GC 流程图.md",
     "java/jvm/类加载.md",
     "java/jvm/内存分配原则&过程.md",
-    "java/jvm/对象的内存布局.md",
     "java/jvm/知识树.md",
+    "java/jvm/Java 对象的创建过程.md",
+    "java/jvm/对象的内存布局.md",
     "basic/design-patterns/0.知识树.md",
     "basic/design-patterns/设计模式.md",
     "basic/computer-network/README.md",
@@ -189,11 +193,7 @@
     "java/collection",
     "java",
     "database/redis",
-    "database/mysql",
     "计算机基础/设计模式/README.md",
-    "计算机基础/操作系统/README.md",
-    "java/并发/README.md",
-    "数据库/mysql/文章1.md",
-    "数据库/redis/README.md"
+    "计算机基础/操作系统/README.md"
   ]
 }
