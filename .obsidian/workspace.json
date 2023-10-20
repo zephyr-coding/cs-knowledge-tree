@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b6cae9edc30377",
+        "id": "c262afe364dc748f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f988f827a1f90fd",
+            "id": "7de66db5a459f160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/redis/Redis 笔记.md",
+                "file": "basic/computer-network/TCP 传输可靠性、粘包、流量控制、拥塞控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/redis/Redis 笔记.md",
+                "file": "basic/computer-network/TCP 传输可靠性、粘包、流量控制、拥塞控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/redis/Redis 笔记.md",
+                "file": "basic/computer-network/TCP 传输可靠性、粘包、流量控制、拥塞控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/redis/Redis 笔记.md"
+                "file": "basic/computer-network/TCP 传输可靠性、粘包、流量控制、拥塞控制.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6f988f827a1f90fd",
+  "active": "7de66db5a459f160",
   "lastOpenFiles": [
+    "basic/computer-network/网络分层 & 协议.md",
+    "basic/computer-network/TCP 传输可靠性、粘包、流量控制、拥塞控制.md",
+    "算法.md",
+    "basic/computer-network/README.md",
+    "这是一个数学公式english.md",
+    "database/redis/Redis 笔记.md",
     "database/redis/attachments/Pasted image 20231018003213.png",
     "database/redis/attachments/Pasted image 20231018003158.png",
     "database/redis/attachments/Pasted image 20231018003059.png",
@@ -156,10 +162,8 @@
     "database/redis/attachments/Pasted image 20231018003003.png",
     "database/redis/attachments/Pasted image 20231018002957.png",
     "database/redis/attachments/Pasted image 20231018002937.png",
-    "database/redis/Redis 笔记.md",
     "database/redis/attachments/Pasted image 20231018002836.png",
     "database/redis/attachments/Pasted image 20231018002816.png",
-    "database/redis/attachments/Pasted image 20231018002755.png",
     "database/redis/attachments",
     "database/mysql/一条 SQL 的执行过程.md",
     "database/mysql/attachments",
@@ -174,7 +178,6 @@
     "java/jvm/对象的内存布局.md",
     "basic/design-patterns/0.知识树.md",
     "basic/design-patterns/设计模式.md",
-    "basic/computer-network/README.md",
     "database/mysql/README.md",
     "java/concurrent/并发机制底层实现原理.md",
     "java/concurrent/线程.md",
@@ -185,9 +188,6 @@
     "database/redis/README.md",
     "java/concurrent/README.md",
     "README.md",
-    "index.md",
-    "这是一个数学公式english.md",
-    "mq/kafka/README.md",
     "basic/design-patterns/attachments",
     "未命名.canvas",
     "mq/kafka",
